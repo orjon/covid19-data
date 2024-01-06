@@ -12,4 +12,8 @@ const dateTime = () => {
   return `[${date} ${time}]`
 }
 
-module.exports = { dateTime }
+const logMessage = (message) => {
+  console.log(`${dateTime()} ${message}`)
+}
+
+module.exports = { logMessage, dateTime }

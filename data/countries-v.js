@@ -5937,7 +5937,7 @@ exports.countriesV = {
       deathsNew: 0
     }
   ],
-  vatican: [
+  'vatican-city': [
     {
       date: '2020-03-06',
       casesTotal: 1,

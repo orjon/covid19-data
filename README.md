@@ -4,6 +4,9 @@
 This API serves static global country Covid 19 data. The purpose of this API is to replace an API that is no longer available - rendering my Covid19 Tracker App unusable
 </br></br>
 
+## Configuration
+
+
 ## Endpoints
 
 | Endpoint | Description |

@@ -31045,7 +31045,7 @@ exports.countriesT = {
       deathsNew: 0
     }
   ],
-  timor: [
+  'timor-leste': [
     {
       date: '2020-03-22',
       casesTotal: 1,

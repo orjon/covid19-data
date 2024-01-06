@@ -868,13 +868,6 @@ exports.countryList = [
     population: 59194
   },
   {
-    country: 'Martinique',
-    slug: 'martinique',
-    iso2: 'MQ',
-    iso3: 'MTQ',
-    population: 378243
-  },
-  {
     country: 'Mauritania',
     slug: 'mauritania',
     iso2: 'MR',
@@ -1029,13 +1022,6 @@ exports.countryList = [
     population: 1470
   },
   {
-    country: 'Norfolk Island',
-    slug: 'norfolk-island',
-    iso2: 'NF',
-    iso3: 'NFK',
-    population: 2302
-  },
-  {
     country: 'North Macedonia',
     slug: 'north-macedonia',
     iso2: 'MK',
@@ -1155,13 +1141,6 @@ exports.countryList = [
     population: 2881060
   },
   {
-    country: 'Réunion',
-    slug: 'réunion',
-    iso2: 'RE',
-    iso3: 'REU',
-    population: 840974
-  },
-  {
     country: 'Romania',
     slug: 'romania',
     iso2: 'RO',
@@ -1183,13 +1162,6 @@ exports.countryList = [
     population: 12952209
   },
   {
-    country: 'Saint Barthélemy',
-    slug: 'saint-barthélemy',
-    iso2: 'BL',
-    iso3: 'BLM',
-    population: 9417
-  },
-  {
     country: 'Saint Helena',
     slug: 'saint-helena',
     iso2: 'SH',
@@ -1209,13 +1181,6 @@ exports.countryList = [
     iso2: 'LC',
     iso3: 'LCA',
     population: 183629
-  },
-  {
-    country: 'Saint Martin',
-    slug: 'saint-martin',
-    iso2: 'MF',
-    iso3: 'MAF',
-    population: 38659
   },
   {
     country: 'Saint Pierre and Miquelon',
@@ -1337,13 +1302,6 @@ exports.countryList = [
     population: 59308690
   },
   {
-    country: 'South Georgia and the South Sandwich Islands',
-    slug: 'south-georgia-and-the-south-sandwich-islands',
-    iso2: 'GS',
-    iso3: 'SGS',
-    population: 30
-  },
-  {
     country: 'South Korea',
     slug: 'south-korea',
     iso2: 'KR',
@@ -1379,25 +1337,11 @@ exports.countryList = [
     population: 43849269
   },
   {
-    country: 'Suricountry',
-    slug: 'suricountry',
+    country: 'Suriname',
+    slug: 'suriname',
     iso2: 'SR',
     iso3: 'SUR',
     population: 586634
-  },
-  {
-    country: 'Svalbard and Jan Mayen',
-    slug: 'svalbard-and-jan-mayen',
-    iso2: 'SJ',
-    iso3: 'SJM',
-    population: 2562
-  },
-  {
-    country: 'Swaziland',
-    slug: 'swaziland',
-    iso2: 'SZ',
-    iso3: 'SWZ',
-    population: 1160164
   },
   {
     country: 'Sweden',
@@ -1554,13 +1498,6 @@ exports.countryList = [
     population: 329484123
   },
   {
-    country: 'United States Minor Outlying Islands',
-    slug: 'united-states-minor-outlying-islands',
-    iso2: 'UM',
-    iso3: 'UMI',
-    population: 300
-  },
-  {
     country: 'Uruguay',
     slug: 'uruguay',
     iso2: 'UY',
@@ -1568,8 +1505,8 @@ exports.countryList = [
     population: 3473727
   },
   {
-    country: 'US Virgin Islands',
-    slug: 'us-virgin-islands',
+    country: 'United States Virgin Islands',
+    slug: 'united-states-virgin-islands',
     iso2: 'VI',
     iso3: 'VIR',
     population: 106290
@@ -1615,13 +1552,6 @@ exports.countryList = [
     iso2: 'WF',
     iso3: 'WLF',
     population: 11750
-  },
-  {
-    country: 'Western Sahara',
-    slug: 'western-sahara',
-    iso2: 'EH',
-    iso3: 'ESH',
-    population: 510713
   },
   {
     country: 'Yemen',
