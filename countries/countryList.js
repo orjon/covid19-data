@@ -196,6 +196,13 @@ exports.countryList = [
     population: 212559409
   },
   {
+    country: 'British Virgin Islands',
+    slug: 'british-virgin-islands',
+    iso2: 'VG',
+    iso3: 'VGB',
+    population: 30030
+  },
+  {
     country: 'Brunei',
     slug: 'brunei',
     iso2: 'BN',
@@ -224,8 +231,8 @@ exports.countryList = [
     population: 11890781
   },
   {
-    country: 'Cabo Verde',
-    slug: 'cabo-verde',
+    country: 'Cape Verde',
+    slug: 'cape-verde',
     iso2: 'CV',
     iso3: 'CPV',
     population: 555988
@@ -294,6 +301,13 @@ exports.countryList = [
     population: 50882884
   },
   {
+    country: 'Cook Islands',
+    slug: 'cook-islands',
+    iso2: 'CK',
+    iso3: 'COK',
+    population: 17074
+  },
+  {
     country: 'Comoros',
     slug: 'comoros',
     iso2: 'KM',
@@ -301,15 +315,15 @@ exports.countryList = [
     population: 869595
   },
   {
-    country: 'Congo (Brazzaville)',
-    slug: 'congo-brazzaville',
+    country: 'Republic of the Congo',
+    slug: 'congo',
     iso2: 'CG',
     iso3: 'COG',
     population: 5518092
   },
   {
-    country: 'Congo (Kinshasa)',
-    slug: 'congo-kinshasa',
+    country: 'Democratic Republic of the Congo',
+    slug: 'democratic-republic-of-congo',
     iso2: 'CD',
     iso3: 'COD',
     population: 89561404
@@ -350,15 +364,15 @@ exports.countryList = [
     population: 1207361
   },
   {
-    country: 'Czech Republic',
-    slug: 'czech-republic',
+    country: 'Czechia',
+    slug: 'czechia',
     iso2: 'CZ',
     iso3: 'CZE',
     population: 10698896
   },
   {
     country: "Côte d'Ivoire",
-    slug: 'cote-divoire',
+    slug: 'cote-d-ivoire',
     iso2: 'CI',
     iso3: 'CIV',
     population: 26378275
@@ -448,6 +462,20 @@ exports.countryList = [
     population: 114963583
   },
   {
+    country: 'Faeroe Islands',
+    slug: 'faeroe-islands',
+    iso2: 'FO',
+    iso3: 'FRO',
+    population: 54642
+  },
+  {
+    country: 'Falkland Islands',
+    slug: 'falkland-islands',
+    iso2: 'FK',
+    iso3: 'FLK',
+    population: 3662
+  },
+  {
     country: 'Fiji',
     slug: 'fiji',
     iso2: 'FJ',
@@ -469,8 +497,8 @@ exports.countryList = [
     population: 67391582
   },
   {
-    country: 'French Guiana',
-    slug: 'french-guiana',
+    country: 'Guyane',
+    slug: 'guyane',
     iso2: 'GF',
     iso3: 'GUF',
     population: 254541
@@ -733,6 +761,13 @@ exports.countryList = [
     iso2: 'KI',
     iso3: 'KIR',
     population: 119446
+  },
+  {
+    country: 'Kosovo',
+    slug: 'kosovo',
+    iso2: 'XK',
+    iso3: 'UNK',
+    population: 1586659
   },
   {
     country: 'Kuwait',
@@ -1022,6 +1057,13 @@ exports.countryList = [
     population: 1470
   },
   {
+    country: 'North Korea',
+    slug: 'north-korea',
+    iso2: 'KP',
+    iso3: 'PRK',
+    population: 25115311
+  },
+  {
     country: 'North Macedonia',
     slug: 'north-macedonia',
     iso2: 'MK',
@@ -1211,7 +1253,7 @@ exports.countryList = [
     population: 33938
   },
   {
-    country: 'Sao Tome and Principe',
+    country: 'São Tomé and Príncipe',
     slug: 'sao-tome-and-principe',
     iso2: 'ST',
     iso3: 'STP',

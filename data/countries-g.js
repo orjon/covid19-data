@@ -102829,7 +102829,7 @@ exports.countriesG = {
       deathsNew: 0
     }
   ],
-  guyana: [
+  guyane: [
     {
       date: '2020-03-12',
       casesTotal: 1,
